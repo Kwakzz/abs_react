@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "homepage": "https://freddie-2.github.io/",
+  "homepage": "./src/components/Home.js",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
